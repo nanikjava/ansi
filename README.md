@@ -1,0 +1,1 @@
+Example to print coloured text using ANSI Escape codes
